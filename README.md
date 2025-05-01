@@ -28,7 +28,7 @@ A Linux virtual machine was launched, configured with a web server (Nginx), and 
 ![EC2 Instance Running](screenshots/Screenshot of your EC2 running.png)
 
 
-![Web Page Hosted](screenshots/Screenshot of your website loading in browser.png)
+![Web Page Hosted](screenshots/Screenshot of your EC2 running.png)
 
 ## Author
 Giles Woodford
