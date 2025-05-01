@@ -25,10 +25,8 @@ A Linux virtual machine was launched, configured with a web server (Nginx), and 
 6. Access the public IP in a browser
 
 ## Screenshots
-![EC2 Instance Running](screenshots/Screenshot of your EC2 running.png)
-
-
-![Web Page Hosted](screenshots/Screenshot of your EC2 running.png)
+![EC2 Instance Running](screenshots/ec2-instance.png)
+![Web Page Hosted](screenshots/web-page.png)
 
 ## Author
 Giles Woodford
