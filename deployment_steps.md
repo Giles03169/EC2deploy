@@ -12,4 +12,4 @@
 ## 3. Connect to Instance via SSH
 ```bash
 chmod 400 my-key.pem
-ssh -i "deploykey pem" ec2-user@ec2-16-170-163-186.eu-north-1.compute.amazonaws.com
+ssh -i "my-key pem" ec2-user@ec2-16-170-163-186.eu-north-1.compute.amazonaws.com
